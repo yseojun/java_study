@@ -75,3 +75,6 @@ class RaceHorse extends Horse {
 
 // 모든 클래스는 ' Object ' 클래스를 상속받음
 // Object 클래스에는 toString method가 선언되어 있고, println같은 string을 활용할 때 이 method를 활용
+
+
+// Object Slice
